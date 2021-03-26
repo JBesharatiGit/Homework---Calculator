@@ -1,0 +1,7 @@
+C:\Users\Maryam.A.maryam_ahadi\source\repos\calcculatorA\calcculatorA\bin\Debug\calcculatorA.exe.config
+C:\Users\Maryam.A.maryam_ahadi\source\repos\calcculatorA\calcculatorA\bin\Debug\calcculatorA.exe
+C:\Users\Maryam.A.maryam_ahadi\source\repos\calcculatorA\calcculatorA\bin\Debug\calcculatorA.pdb
+C:\Users\Maryam.A.maryam_ahadi\source\repos\calcculatorA\calcculatorA\obj\Debug\calcculatorA.csprojAssemblyReference.cache
+C:\Users\Maryam.A.maryam_ahadi\source\repos\calcculatorA\calcculatorA\obj\Debug\calcculatorA.csproj.CoreCompileInputs.cache
+C:\Users\Maryam.A.maryam_ahadi\source\repos\calcculatorA\calcculatorA\obj\Debug\calcculatorA.exe
+C:\Users\Maryam.A.maryam_ahadi\source\repos\calcculatorA\calcculatorA\obj\Debug\calcculatorA.pdb
